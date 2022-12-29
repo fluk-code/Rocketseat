@@ -1,0 +1,12 @@
+## Jobs Calc
+Discover/02-Jobs-Calc/node_modules/
+
+## Rentex
+Ignite/Node/Rentx/node_modules
+Ignite/Node/Rentx/.vscode
+Ignite/Node/Rentx/coverage
+Ignite/Node/Rentx/dist/
+Ignite/Node/Rentx/tmp/*
+Ignite/Node/Rentx/!tmp/.gitkeep
+Ignite/Node/Rentx/.env
+Ignite/Node/Rentx/ormconfig.json
